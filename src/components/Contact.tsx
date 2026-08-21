@@ -93,26 +93,6 @@ export const Contact = () => {
           </div>
 
         </div>
-
-        {/* Footer */}
-        <Reveal delay={500}>
-          <footer className="mt-20 border-t border-[#2B2522]/10 pt-6">
-
-            <div className="flex flex-col gap-3 text-xs text-[#9A918B] sm:flex-row sm:items-center sm:justify-between">
-
-              <p>
-                © {new Date().getFullYear()} Kareemah. All rights reserved.
-              </p>
-
-              <p>
-                Designed & built with React.
-              </p>
-
-            </div>
-
-          </footer>
-        </Reveal>
-
       </div>
     </section>
   );
