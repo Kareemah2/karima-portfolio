@@ -1,0 +1,52 @@
+{
+  "profile": {
+    "name": "Kareemah",
+    "role": "Frontend Developer & Product Designer",
+    "tagline": "I build clean, responsive and useful web experiences, turning ideas and real problems into thoughtful interfaces.",
+    "about1": "I'm a Computer Science student and frontend developer interested in creating digital experiences that are useful, thoughtful, and easy to use.",
+    "about2": "My work sits at the intersection of frontend development and AI. I'm constantly experimenting, building projects, and learning new ways technology can solve real problems.",
+    "email": "saiduidris.karima@gmail.com",
+    "github": "https://github.com/Kareemah2",
+    "linkedin": "http://www.linkedin.com/in/karima-idris-044664409",
+    "location": "Kaduna, Nigeria",
+    "resume": "public/Karima_Saidu_Idris_CV_Final.pdf",
+    "availability": "Open to freelance projects",
+    "photo": "public\\me.png"
+  },
+  "services": [
+    { "title": "Frontend Development", "description": "Building responsive, accessible and polished interfaces with modern frontend technologies." },
+    { "title": "UI Implementation", "description": "Turning designs and ideas into clean, responsive web experiences with attention to detail." },
+    { "title": "AI-Powered Interfaces", "description": "Exploring practical ways to bring AI capabilities into useful and intuitive web products." }
+  ],
+  "projects": [
+    { "title": "IP Address Tracker", "category": "Web Application", "description": "A responsive IP address tracking application that retrieves location data from an API and displays the results through an interactive map.", "technologies": ["React", "TypeScript", "Tailwind CSS", "API"], "image": "/projects/ip-tracker.jpg", "github": "https://github.com/Kareemah2/ip-tracker", "live": "https://ip-tracker-swart-six.vercel.app/", "role": "", "outcome": "", "figma": "" },
+    { "title": "Crypto Tracker", "category": "Web Application", "description": "A cryptocurrency dashboard that consumes market data and allows users to explore individual cryptocurrencies and their details.", "technologies": ["React", "JavaScript", "CoinGecko API"], "image": "/projects/crypto-price.png", "github": "https://github.com/Kareemah2/crypto-price", "live": "https://crypto-price-liart.vercel.app/", "role": "", "outcome": "", "figma": "" },
+    { "title": "Calculator App", "category": "Frontend Project", "description": "A clean calculator interface built to strengthen component architecture, state management and interactive frontend development.", "technologies": ["React", "JavaScript", "CSS"], "image": "/projects/calculator.jpg", "github": "https://github.com/Kareemah2/calculator-app", "live": "https://calculator-app-gamma-seven.vercel.app/", "role": "", "outcome": "", "figma": "" }
+  ],
+  "experience": [
+    { "role": "Frontend AI Engineer", "company": "FlyRank AI", "year": "2026 — Present", "type": "Remote", "description": "Developing pixel-perfect interfaces that transform AI-assisted outputs into clean, responsive and production-ready web experiences." },
+    { "role": "Web Development Learner", "company": "3Deez Global Investment Limited", "year": "2025 — Present", "type": "Learning · Practical Experience", "description": "Where I began my web development journey, building my foundation through hands-on learning while supporting the team with occasional technical tasks." }
+  ],
+  "skills": [
+    { "title": "Frontend", "skills": ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Tailwind CSS"] },
+    { "title": "Tools & APIs", "skills": ["Git", "GitHub", "REST APIs", "Vite", "npm", "Figma"] },
+    { "title": "Exploring", "skills": ["AI Engineering", "Node.js", "Python", "AI APIs", "Automation"] }
+  ],
+  "learning": [
+    { "title": "Building with the Claude API", "description": "Authentication, function calling, streaming, RAG patterns, and PDF/image processing." },
+    { "title": "Claude Code in Action", "description": "Integrating Anthropic's terminal tool into software development workflows." },
+    { "title": "Introduction to Model Context Protocol", "description": "Building MCP clients and servers in Python to connect external data sources." },
+    { "title": "Introduction to Agent Skills", "description": "Creating and sharing reusable instructions for specialized agents." },
+    { "title": "Claude 101", "description": "Core Claude features, workspace navigation, and practical daily workflows." },
+    { "title": "AI Fluency: Framework & Foundations", "description": "Frameworks for safe, ethical, and effective human-AI collaboration." },
+    { "title": "AI Fluency for Students", "description": "Safe and productive AI use for learning and career development." }
+  ],
+  "certificates": [
+    { "title": "AI Fluency: AI Capabilities & Limitations", "file": "/certificates/ai-fluency-capabilities.pdf" },
+    { "title": "Claude 101", "file": "/certificates/claude-101.pdf" },
+    { "title": "Claude Code 101", "file": "/certificates/claude-code-101.pdf" },
+    { "title": "Introduction to Claude Cowork", "file": "/certificates/claude-cowork.pdf" },
+    { "title": "AI Fluency for Students", "file": "/certificates/ai-fluency-students.pdf" }
+  ],
+  "testimonials": []
+}
